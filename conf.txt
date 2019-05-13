@@ -3,3 +3,4 @@ adding new config
 using pull
 using fetch
 before merging
+adding new conf to the file
