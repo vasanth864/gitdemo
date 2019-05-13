@@ -1,4 +1,8 @@
 hi
 hello
 I am fine
+<<<<<<< HEAD
 thanks
+=======
+congrats
+>>>>>>> 404a0e8fee43dea2a4d63a241ddfcd94a6732b7f
