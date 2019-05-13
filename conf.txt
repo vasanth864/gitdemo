@@ -3,4 +3,8 @@ adding new config
 using pull
 using fetch
 before merging
+<<<<<<< HEAD
 adding new conf to the file
+=======
+I am doing config changes
+>>>>>>> eaf6a9f5db42fa73ae0ecd737b6b799059ca09ea
