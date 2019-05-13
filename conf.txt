@@ -2,3 +2,4 @@ this is git config file
 adding new config
 using pull
 using fetch
+before merging
