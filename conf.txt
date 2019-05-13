@@ -1,1 +1,2 @@
 this is git config file
+adding new config
