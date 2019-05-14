@@ -1,2 +1,6 @@
 we are working on bug
+<<<<<<< HEAD
 I am working on old issues
+=======
+I am working on new issues
+>>>>>>> 7783fed36fe285abc3e665c1d4f32c98398a49d8
